@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^1.2.0",
-    "webpack": "^4.5.0"
+    "puppeteer": "^1.2.0"
   },
   "devDependencies": {
     "webpack-cli": "^2.0.14"
